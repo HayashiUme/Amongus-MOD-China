@@ -999,6 +999,21 @@ Among Us 支持版本：2023.6.13
 
 > 功能：可在游戏内添加机器人玩家，可在本体与其他机器人视角中切换并控制  
 > 注：仅作为模组的样貌预览使用，具体游戏功能可能不生效，并不能胜任“模组测试”这项工作。 
+
+## 7.Starlight
+[团队官方网站（点这）](https://allofus.dev/)
+### PC版本
+[ Github仓库 ( 点这 ) ](https://github.com/All-Of-Us-Mods/Starlight-PC)
+
+最新版本：v2.0.0 -beta2
+更新状况：持续更新中
+> 功能：模组管理器
+### 安卓版本
+[ Github仓库 ( 点这 ) ](https://github.com/All-Of-Us-Mods/starlight-releases)
+
+最新版本：v1.6.1
+更新状况：持续更新中
+> 功能：适用于安卓设备的闭源模组启动器
 # 地图
 
 ## １.Submerged
